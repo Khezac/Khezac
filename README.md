@@ -2,9 +2,9 @@
 
 - 👓 Me chamo Khezac Khalleb.
 - 🎈 tenho atualmente 20 anos.
-- 🧱 Junior Dev Front-end.
-- ⚙️ Tecnologias: HTML, CSS, JavaScript, React.
-- 📖 Estudando: Sass e Scss
+- 🧱 Junior WebDev.
+- ⚙️ Tecnologias: HTML, CSS, JavaScript, React, Sass e Scss
+- 📖 Estudando: MySQL.
 - 🏠 Morando atualmente em Nova Friburgo, Rio de janeiro.
 - 👔 Interessado em vagas como Dev Front-end.
 
