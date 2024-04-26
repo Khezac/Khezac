@@ -4,7 +4,7 @@
 - 🎈 tenho atualmente 20 anos.
 - 🧱 Junior WebDev.
 - ⚙️ Tecnologias: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript e React
-- 📖 Estudando: MySQL.
+- 📖 Estudando: Residencia em TIC/Full-Stack na Serratec
 - 🏠 Morando atualmente em Nova Friburgo, Rio de janeiro.
 - 👔 Interessado em vagas como Dev Front-end.
 
