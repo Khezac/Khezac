@@ -10,6 +10,9 @@
 
 - 📋 Contato: khezac1@gmail.com.
 - 🚧 Portfólio: <a href="https://khezac-portfolio.vercel.app/">portfolio.com</a>
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khezac&layout=compact)](https://github.com/khezac/github-readme-stats)
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="Khezac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Khezac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,5 +23,7 @@
   <img align="center" alt="Khezac-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Khezac-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Khezac-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-
 </div>
+
+
+
