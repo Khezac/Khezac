@@ -11,7 +11,7 @@
 - 📋 Contato: khezac1@gmail.com.
 - 🚧 Portfólio: <a href="https://khezac-portfolio.vercel.app/">portfolio.com</a>
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khezac&layout=compact)](https://github.com/khezac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khezac&layout=compact&theme=radical)](https://github.com/khezac/github-readme-stats)
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Khezac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
