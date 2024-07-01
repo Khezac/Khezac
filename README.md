@@ -6,7 +6,6 @@
 - ⚙️ Tecnologias: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript e React
 - 📖 Estudando: Residencia em TIC/Full-Stack na Serratec
 - 🏠 Morando atualmente em Nova Friburgo, Rio de janeiro.
-- 👔 Interessado em vagas como Dev Front-end.
 
 - 📋 Contato: khezac1@gmail.com.
 - 🚧 Portfólio: <a href="https://khezac-portfolio.vercel.app/">portfolio.com</a>
