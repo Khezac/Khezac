@@ -1,10 +1,10 @@
 ## Olá, seja bem-vindo ao meu GitHub!!!
 
 - 👓 Me chamo Khezac Khalleb.
-- 🎈 tenho atualmente 20 anos.
-- 🧱 Junior WebDev.
-- ⚙️ Tecnologias: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript e React
-- 📖 Estudando: Residencia em TIC/Full-Stack na Serratec
+- 🎈 tenho atualmente 21 anos.
+- 🧱 Desenvolvedor Fullstack.
+- ⚙️ Tecnologias: React, SQL, TypeScript, Delphi e Java
+- 📖 Trabalhando na: AlterdataSoftware
 - 🏠 Morando atualmente em Nova Friburgo, Rio de janeiro.
 
 - 📋 Contato: khezac1@gmail.com.
