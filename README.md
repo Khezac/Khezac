@@ -23,6 +23,7 @@
   <img align="center" alt="Khezac-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Khezac-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Khezac-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Khezac-Delphi" height="30" width="30" src="https://img.icons8.com/color/600/delphi-ide.png">
 </div>
 
 ## Principais repositórios
